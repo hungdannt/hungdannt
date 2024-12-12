@@ -71,11 +71,11 @@ const farhan = {
   name: "Dan Tran Hung",
   pronouns: "He" | "Him",
   languageSpoken: ["en_US", "vi_VN"],
-  code: ["Python", "NodeJS", "ReactJS", "Javascript", "HTML5", "CSS3", "TypeScript"],
-  askMeAbout: ["web dev", "tech"],
+  code: ["Python", "NodeJS", "React Native", "ReactJS", "Javascript", "HTML5", "CSS3", "TypeScript"],
+  askMeAbout: ["web dev", "mobile dev", "AI intergration"],
   technologies: {
         web: {
-         frontEnd: ["ReactJS", "Redux", "Bootstrap", "Tailwind CSS", "Material UI"],
+         frontEnd: ["ReactJS", "React Native", "Redux", "Bootstrap", "Tailwind CSS", "Material UI"],
          backEnd: ["Python", "NodeJS", "ExpressJS", "Mongoose"],
       },
         databases: ["PostgreSQL", "MongoDB", "Firestore"],
