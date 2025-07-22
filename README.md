@@ -6,7 +6,7 @@
 
 ### Glad to see you here! :octocat:
 
-> I'm a **Full Stack Web Developer**. An enthusiast of technology always enjoys coding, likes to solve programming problems. I am interested in thinking/developing web-related modules or functionality and always try to find new ideas. In the tech community, I try to help people by sharing my knowledge. I love to read tech-related articles & play video games during my free time.
+> I'm a **Odoo/Full Stack Web Developer**. An enthusiast of technology always enjoys coding, likes to solve programming problems. I am interested in thinking/developing web-related modules or functionality and always try to find new ideas. In the tech community, I try to help people by sharing my knowledge. I love to read tech-related articles & play video games during my free time.
 
 ---
 
