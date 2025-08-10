@@ -18,7 +18,6 @@
 - 📰 &nbsp; Reading tech blogs whenever possible.
 - 🍕 &nbsp; Travelling, meetups & tech events.
 - :computer: &nbsp; Most favourire code line `console.log("hello world");`
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/hungdannt).
 - 👾 &nbsp; Fun Fact: Equal is Not Always Equal in Javascript! 😹
 &nbsp;
 &nbsp;
