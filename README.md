@@ -67,18 +67,17 @@
 
 ```javascript
 const farhan = {
-  name: "Dan Tran Hung",
+  name: "Dan Tran",
   pronouns: "He" | "Him",
   languageSpoken: ["en_US", "vi_VN"],
   code: ["Python", "NodeJS", "React Native", "ReactJS", "Javascript", "HTML5", "CSS3", "TypeScript"],
-  askMeAbout: ["web dev", "mobile dev", "AI intergration"],
+  askMeAbout: ["web dev", "AI intergration"],
   technologies: {
         web: {
          frontEnd: ["ReactJS", "React Native", "Redux", "Bootstrap", "Tailwind CSS", "Material UI"],
          backEnd: ["Python", "NodeJS", "ExpressJS", "Mongoose"],
       },
         databases: ["PostgreSQL", "MongoDB", "Firestore"],
-        misc: ["Router", "Firebase"]
     },
     currentFocus: "Full Stack Web Development"
 }
