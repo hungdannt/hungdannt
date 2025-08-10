@@ -61,25 +61,10 @@
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=0078D6)
 
 
----
 
-
-
-
-<p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=farhan-nahid&show_icons=true&hide_border=true&theme=tokyonight" alt="Farhan Ahmed Nahid's stats" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=farhan-nahid&langs_count=10&w_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Farhan Ahmed Nahid's stats"/>
-	
-</p> -->
 
 ---
 
-<!-- ### 🚀 Something Which is Developed by Me 💻
-
-[![Kacha Bazar](https://github-readme-stats.vercel.app/api/pin/?username=farhan-nahid&repo=kacha-bazar&theme=tokyonight&hide_border=true")](https://github.com/farhan-nahid/kacha-bazar)
-[![Mobile Store](https://github-readme-stats.vercel.app/api/pin/?username=farhan-nahid&repo=mobile-store&theme=tokyonight&hide_border=true")](https://github.com/farhan-nahid/mobile-store)
-[![Dreamy Travel](https://github-readme-stats.vercel.app/api/pin/?username=farhan-nahid&repo=dreamy-travel&theme=tokyonight&hide_border=true")](https://github.com/farhan-nahid/dreamy-travel)
-[![Creative Academy](https://github-readme-stats.vercel.app/api/pin/?username=farhan-nahid&repo=creative-academy&theme=tokyonight&hide_border=true")](https://github.com/farhan-nahid/creative-academy) -->
 
 
 
@@ -180,8 +165,6 @@
 
 
 <!--
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=farhan-nahid&langs_count=10&w_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=volunteer-network-client,web-portfolio,personal-website,simple-portfolio,panda-commerce,hot-gadgets,penguin-fashion,1st-psd-to-html,blueeasy,Web-1st,javaScript-Problem,pioneer-bank,cart,Calculator,Advance-JavaScript,ES6,movie-bank,movie-bank,hard-rock,flight-booking,salary-app-master,fancy-slider,personal-website-,pin-matcher,first-react,Modern-JavaScript-Syntaxes,node-js-setup,ema-john-client,react-editor-setup,user-information,country-react,ema-john-simple,dream-twenty,super-hero,friends-react,react-country,social-buddy,movie-bank-react,english-premier-league,auth-practice,auth-recap,burj-al-arab-client,firebase-authentication" alt="Farhan Ahmed Nahid's stats"/>
 
 
 
