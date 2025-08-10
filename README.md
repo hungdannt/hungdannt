@@ -63,34 +63,8 @@
 
 ---
 
-### :boy: A little more about me:
 
-```javascript
-const farhan = {
-  name: "Dan Tran",
-  pronouns: "He" | "Him",
-  languageSpoken: ["en_US", "vi_VN"],
-  code: ["Python", "NodeJS", "React Native", "ReactJS", "Javascript", "HTML5", "CSS3", "TypeScript"],
-  askMeAbout: ["web dev", "AI intergration"],
-  technologies: {
-        web: {
-         frontEnd: ["ReactJS", "React Native", "Redux", "Bootstrap", "Tailwind CSS", "Material UI"],
-         backEnd: ["Python", "NodeJS", "ExpressJS", "Mongoose"],
-      },
-        databases: ["PostgreSQL", "MongoDB", "Firestore"],
-    },
-    currentFocus: "Full Stack Web Development"
-}
-```
 
----
-<!-- 
-### ☄️ Github Streaks:
-<p align="center">
-    <img alt="Farhan Ahmed Nahid's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=farhan-nahid&theme=tokyonight&hide_border=true"/>
-</p> -->
-
-<!-- ### ⚡ Github Stats:
 
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=farhan-nahid&show_icons=true&hide_border=true&theme=tokyonight" alt="Farhan Ahmed Nahid's stats" />
