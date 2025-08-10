@@ -17,9 +17,7 @@
 - 💻 &nbsp; I love exploring new tech stacks and building cool stuff.
 - 📰 &nbsp; Reading tech blogs whenever possible.
 - 🍕 &nbsp; Travelling, meetups & tech events.
-- :computer: &nbsp; Most favourire code line `console.log("hello world");`
 - 👾 &nbsp; Fun Fact: Equal is Not Always Equal in Javascript! 😹
-&nbsp;
 &nbsp;
 
 
